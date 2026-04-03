@@ -1,5 +1,5 @@
 # 🛍️ RETAIL & MARKETING ANALYTICS PROJECT
-## End-to-End Data Analytics Project for Students
+## End-to-End Data Analytics Project
 
 ---
 
